@@ -504,3 +504,62 @@ Quando instalado, clique com o botão direito e selecione WAVE.
 
 Será gerado um relatório que mostra uma análise dos erros de acessibilidade, se houver, seus recursos de acessibilidade, elementos estruturais e também inclui quantos rótulos ARIA a página possui.
 
+Em seguida, na própria página, ela será anotada com ícones diferentes, destacando onde estão os problemas e os recursos de acessibilidade.
+
+Simplesmente clico no botão Exibir detalhes e, em seguida, se você clicar em qualquer um dos ícones, ele destacará qual elemento tem o erro.
+
+Ao clicar em uma referência, você verá os detalhes de qual é o erro e por que é importante resolver o problema.
+
+Também há uma opção para selecionar o código - basta clicar no código e isso irá destacar o próprio código, para que você saiba onde adicionar o texto alternativo para este exemplo.
+
+Você também pode inspecionar problemas de contraste de cor no WAVE.
+
+Se você clicar em um dos ícones aqui, será mostrado por que ele falhou.
+
+Para que uma regra de contraste de cor seja aprovada, o texto normal deve ter uma proporção de pelo menos 4,5: 1 de primeiro plano para fundo e de pelo menos 3: 1 para texto grande.
+
+### Google Lighthouse
+
+Por último, o Google Lighthouse, que já vem integrado se sua versão do Chrome estiver atualizada, também inclui verificações de acessibilidade.
+
+O recurso de acessibilidade deles está usando ax-core como mecanismo, mas o que é ótimo é que você também pode medir outras métricas, como desempenho, práticas recomendadas e SEO.
+
+Para executar o Lighthouse, basta abrir suas ferramentas de desenvolvedor e encontrar a guia Lighthouse.
+
+Quando estiver aqui, você pode optar por executá-lo na versão desktop ou móvel.
+
+Vamos clicar em Gerar relatório e então esperar que o Lighthouse escaneie a página inteira.
+
+Depois de concluído, ele fornece essas diferentes pontuações e clicar em acessibilidade o redirecionará para a seção de acessibilidade.
+
+Gosto do fato de eles terem mencionado que apenas um subconjunto de problemas pode ser detectado automaticamente, então isso incentiva a importância de não depender totalmente disso.
+
+Quando você expande uma das violações, isso mostra quais são os elementos com falha.
+
+Também gosto que mostre as auditorias anteriores, o que é ótimo.
+
+Portanto, antes de terminarmos este capítulo, tenho outra atividade para você, da qual espero que participe novamente.
+
+Desta vez, quero que você use uma das extensões de navegador que mencionei e a use para encontrar quaisquer problemas de acessibilidade no site de sua escolha.
+
+É ótimo se familiarizar com essas extensões de navegador e essa é uma maneira fácil de começar a testar a acessibilidade.
+
+Então, vá em frente e pause este vídeo. Quando terminar, iremos para o próximo subcapítulo e, em seguida, examinaremos algumas das ferramentas automatizadas para acessibilidade.
+
+## Ferramentas para testes automatizados
+
+A última parte deste capítulo é falar sobre ferramentas automatizadas de acessibilidade que você pode integrar em sua base de código e em seu pipeline de CI.
+
+Novamente, as ferramentas que você verá aqui são apenas um subconjunto.
+
+
+### Axe-Core
+Uma das ferramentas automatizadas de teste de acessibilidade mais populares é o Ax-Core.
+
+Você viu nos slides anteriores que Ax também tem uma extensão de navegador que você pode usar.
+
+Se você deseja detectar problemas de acessibilidade de maneira programática, pode usar diferentes bibliotecas baseadas no Ax-Core.
+
+A filosofia do Ax-Core é capacitar os desenvolvedores, e também os testadores de software, a pensar sobre acessibilidade, integrando testes automatizados o mais cedo possível.
+
+Existem tantos projetos por aí que são desenvolvidos com base no Ax-Core; como o Ax CLI, que permite executar testes de acessibilidade diretamente na linha de comando, que examinaremos de perto no próximo capítulo.
