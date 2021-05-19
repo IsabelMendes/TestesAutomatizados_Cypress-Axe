@@ -16,13 +16,13 @@ Uma ferramenta de teste de acessibilidade automatizada pode verificar se as imag
 
 Se você tem usuários cegos, eles dependem muito desses textos alternativos para ajudá-los a entender as imagens que não podem ver.
 
-Uma ferramenta automatizada também pode verificar se possui a estrutura de título correta e se há algum elemento de título ausente.
+Uma ferramenta automatizada também pode verificar se possui a **estrutura de título correta** e se há algum elemento de **título ausente**.
 
 Por exemplo, é recomendado que sua página tenha pelo menos um título.
 
 Ter uma boa estrutura de títulos ajuda em como sua página será acessada usando apenas o teclado.
 
-Semelhante ao **contraste de cor** - uma ferramenta de teste de acessibilidade pode ajudá-lo a detectar qualquer elemento em sua página que não tenha contraste de cor suficiente e pode relatar problemas preliminares básicos.
+Semelhante ao **contraste de cor**: uma ferramenta de teste de acessibilidade pode ajudá-lo a detectar qualquer elemento em sua página que não tenha contraste de cor suficiente e pode relatar problemas preliminares básicos.
 
 Isso é útil porque alguns usuários acharão difícil ler o texto se não houver contraste suficiente entre o texto e o fundo.
 
@@ -36,7 +36,7 @@ O atributo aria-label é usado como um rótulo para elementos onde o rótulo nã
 
 Isso é particularmente útil para usar leitores de tela.
 
-Este é apenas um subconjunto, é claro, mas se você quiser saber mais informações sobre quais outras regras podem ser automatizadas, você pode verificar as regras de acessibilidade de Deque em uma das ferramentas fornecidas, que também exploraremos mais detalhes no próximo capítulo.
+Este é apenas um subconjunto, é claro, mas se você quiser saber mais informações sobre quais outras regras podem ser automatizadas, você pode verificar as regras de acessibilidade do Deque em uma das ferramentas fornecidas, que também exploraremos mais detalhadamente no próximo capítulo.
 
 
 # Verificações que você precisa testar
@@ -64,7 +64,7 @@ Como você pode ver, a intervenção humana ainda é muito necessária se você 
 
 A automação pode nos ajudar com problemas técnicos no início, mas não pode ser 100% confiável.
 
-Os dos slides anteriores são apenas verificações para você começar, e há outras verificações que você também deve observar.
+Os exemplos anteriores são apenas verificações para você começar, e há outras verificações que você também deve observar.
 
 Por exemplo, se você tiver formulários em seu site, precisará certificar-se de que haja feedback fornecido sempre que os usuários enviarem o formulário ou cometerem erros.
 
@@ -72,9 +72,9 @@ As mensagens devem ser claras e fáceis de entender.
 
 Se você tiver algum vídeo incorporado, precisa testar se as legendas estão claras e representam bem o vídeo.
 
-Se você tiver animações, certifique-se de que haja uma opção para desativar isso, pois os usuários podem considerá-las atraentes. Dê a eles a opção de controlá-lo.
+Se você tiver animações, certifique-se de que haja uma opção para desativar isso, pois os usuários podem considerá-las inconvenientes. Dê a eles a opção de controlá-lo.
 
-Conforme mencionado no slide anterior, você ainda precisa usar o teclado para verificar algumas das verificações automatizadas de acessibilidade, portanto, isso é muito importante ao fazer o teste de acessibilidade.
+Conforme mencionado anteriormente, você ainda precisa usar o teclado para verificar algumas das verificações automatizadas de acessibilidade, portanto, isso é muito importante ao fazer o teste de acessibilidade.
 
 Seu teclado é uma ótima ferramenta de acessibilidade.
 
@@ -86,9 +86,9 @@ Se você tiver áudio ou vídeos, certifique-se de que os níveis de áudio poss
 
 O layout é responsivo? Se eles estiverem no celular, você está exibindo a versão móvel?
 
-Os botões ou links são grandes o suficiente? Portanto, quando estiverem usando dispositivos com portas de visualização menores, eles podem acessar facilmente.
+Os botões ou links são grandes o suficiente? Portanto, quando estiverem usando dispositivos com telas de visualização menores, eles podem acessar facilmente.
 
-Eu sei que existem toneladas de verificações que você pode começar a fazer, e é um bom começo ter um plano de acessibilidade em vigor.
+Eu sei que existem toneladas de verificações que você pode começar a fazer, e é um bom começo ter um plano de acessibilidade em mãos.
 
 ## Dicas para fazer testes de acessibilidade
 
