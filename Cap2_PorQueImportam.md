@@ -38,7 +38,7 @@ A lei sobre acessibilidade difere de um país para outro, então é melhor verif
 
 Com a quantidade de verificações de acessibilidade diferentes que precisamos fazer, faz sentido automatizar algumas das verificações e adicioná-las como parte de nosso pacote de regressão automatizado.
 
-Ao automatizar alguns dos testes de acessibilidade, podemos detectar problemas básicos de acessibilidade com antecedência e nos permite colaborar mais com nossa equipe de design e desenvolvimento.
+Ao automatizar alguns dos testes de acessibilidade, podemos detectar problemas básicos de acessibilidade com antecedência o que nos permite colaborar mais com nossa equipe de design e desenvolvimento.
 
 Isso também pode servir como uma documentação viva para sua equipe.
 
@@ -48,7 +48,7 @@ O próximo benefício é, creio eu, um dos mais importantes: evitará que quaisq
 
 Com os testes automatizados em vigor, você tem essa rede de segurança que os problemas que sua equipe corrigiu no passado não serão implantados na produção novamente, pois agora é coberta por um teste automatizado.
 
-Ele também libera seu tempo para fazer atividades de teste mais complexas, como testar com leitores de tela ou usar o teclado apenas para navegar em um site.
+Ele também libera seu tempo para fazer atividades de teste mais complexas, como testar com leitores de tela ou usar o apenas teclado para navegar em um site.
 
 Embora os testes de acessibilidade automatizados detectem apenas um subconjunto dos problemas de acessibilidade existentes, ainda é benéfico tê-los porque nos ajudará a acelerar nosso processo de teste e são baratos para executar.
 
@@ -58,7 +58,7 @@ Sua equipe de desenvolvimento saberá imediatamente se o recurso em que está tr
 
 Da mesma forma, se houver algum erro de contraste de cor detectado, a equipe de design pode ser informada se precisar alterar qualquer um dos tokens de cor escolhidos.
 
-Não é uma bala de prata, é claro, então você não deve usar todos os seus esforços de teste de acessibilidade apenas em testes de acessibilidade automatizados.
+Não é uma bala de prata, é claro, logo você não deve usar todos os seus esforços de teste de acessibilidade apenas em testes de acessibilidade automatizados.
 
 Não existe uma ferramenta automatizada de acessibilidade que possa detectar todos os problemas de acessibilidade e só porque sua ferramenta não relatou um problema de acessibilidade em uma regra específica, não significa que ela está acessível.
 
@@ -72,7 +72,7 @@ Isso só prova que a intervenção humana ainda é muito necessária quando se t
 
 ## A importância de fazer testes de acessibilidade com usuários reais
 
-Com isso dito, nada supera o teste de acessibilidade real com usuários reais.
+Com isso dito, nada supera o teste de acessibilidade com usuários reais.
 
 Você pode ter todos os testes automatizados de que precisa e até mesmo fazer alguns dos testes você mesmo, mas ainda há muitos benefícios a ganhar se convidar usuários reais com deficiências para testar seu site.
 
@@ -84,7 +84,7 @@ Eles podem fornecer informações valiosas sobre como tornar seu recurso acessí
 
 Dito isso, se você pretende obter o envolvimento do usuário, certifique-se de envolver diferentes pessoas com deficiência para obter melhores resultados.
 
-Uma pessoa pode usar uma tecnologia de assistência diferente das outras, então é melhor não depender da opinião de uma pessoa.
+Uma pessoa pode usar uma tecnologia de assistência diferente das outras, então é melhor não depender da opinião de apenas uma pessoa.
 
 Fazer testes de acessibilidade com usuários reais, bem como fazer uma lista de verificação de avaliação, que pode ser conseguida com testes de acessibilidade automatizados e verificando-os você mesmo, é a melhor abordagem para garantir que seu site ou aplicativo seja acessível a usuários com diferentes deficiências.
 
