@@ -10,13 +10,13 @@ Um produto projetado, desenvolvido e testado com acessibilidade em mente terá m
 
 Só no Reino Unido, há 13,9 milhões de pessoas com alguma forma de deficiência. Isso significa que uma em cada cinco pessoas no Reino Unido tem uma doença, deficiência ou deficiência de longa duração. 
 
-> Já no Brasil esse número é de quase 45 milhões de pessoas o que corresponde a 25% da população.
+> Já no Brasil esse número é de quase 45 milhões de pessoas o que corresponde a quase 25% da população.
 
-Alguns têm deficiência temporária e, tendo em mente a acessibilidade, ajudamos essas pessoas a serem incluídas e a usar nossos produtos sem problemas.
+Alguns têm deficiência temporária e, tendo em mente a acessibilidade, ajudamos essas pessoas a serem incluídas e a usarem nossos produtos sem problemas.
 
-Diante dessas estatísticas, muitos estabelecimentos e empresas ainda não projetam pensando na acessibilidade.
+Mesmo diante dessas estatísticas, muitos estabelecimentos e empresas ainda não projetam pensando na acessibilidade.
 
-Só para aumentar a conscientização - e isso não está relacionado com acessibilidade na web - mas eu vi este tweet antes em que a aluna Sarah, que estuda na Universidade de Hull, não pode assistir a sua palestra adequadamente porque a sala de aula não foi projetada para ser acessível .
+Só para aumentar a conscientização - e isso não está relacionado com acessibilidade na web - há um tweet em que a aluna Sarah, que estuda na Universidade de Hull, não pode assistir a sua aula adequadamente porque a sala de aula não foi projetada para ser acessível .
 
 Ela não conseguia nem fazer anotações porque não tinha mesa.
 
@@ -24,19 +24,19 @@ Não consigo imaginar sua frustração e isso é inaceitável.
 
 O link para a postagem de Sarah no Twitter pode ser encontrado na seção de recursos abaixo, se você quiser dar uma olhada.
 
-Hoje em dia, onde quase tudo pode ser acessado online e contamos com a internet todos os dias para realizar a maior parte de nossas tarefas, isso pressiona ainda mais as empresas para que tornem seus aplicativos acessíveis.
+Hoje em dia, quase tudo pode ser acessado online e contamos com a internet todos os dias para realizar a maior parte de nossas tarefas. Isso pressiona ainda mais as empresas para que tornem seus aplicativos acessíveis.
 
-As organizações empresariais têm a responsabilidade com todos os seus usuários de que os recursos que fornecem podem ser acessados por todos.
+As organizações empresariais têm a responsabilidade com todos os seus usuários de que os recursos que fornecem sejam acessados por todos.
 
 À medida que mais e mais dispositivos se tornam disponíveis e temos diferentes meios de consumir informações, sites e aplicativos móveis devem ser projetados tendo a acessibilidade em mente.
 
-Especialmente durante esses tempos de pandemia, a acessibilidade à web é tão importante porque agora todos usam a internet para fazer coisas que não podiam fazer fisicamente, como comprar comida ou mantimentos.
+Especialmente durante esses tempos de pandemia, a acessibilidade web é tão importante, pois agora todos usam a internet para fazer coisas que não podem fazer fisicamente, como comprar comida ou mantimentos.
 
-Você provavelmente já ouviu falar sobre o caso de acessibilidade do Domino's, em que um cego processou a Domino's porque não conseguia pedir sua pizza no site e no aplicativo móvel deles, mesmo usando um leitor de tela.
+Você provavelmente já ouviu falar sobre o caso de acessibilidade do Domino's, em que uma pessoa cega processou a Domino's porque não conseguia pedir sua pizza no site e no aplicativo móvel, mesmo usando um leitor de tela.
 
-No entanto, quando eu estava lendo sobre isso, a lei e a regulamentação sobre acessibilidade na web ainda são uma área confusa.
+No entanto, quando eu estava lendo sobre isso, notei que a lei e a regulamentação sobre acessibilidade na web ainda são uma área confusa.
 
-Se você tem um site de baixa acessibilidade, isso não significa automaticamente que será processado.
+Se você tem um site com baixa acessibilidade, isso não significa automaticamente que será processado.
 
 No entanto, os problemas de acessibilidade podem custar a perda de usuários, o que, por sua vez, representa perda de dinheiro para a empresa, razão pela qual é um problema sério que precisa ser resolvido.
 
@@ -44,31 +44,31 @@ No entanto, os problemas de acessibilidade podem custar a perda de usuários, o 
 ## Diretrizes de acessibilidade de conteúdo da web 2.0
 O W3C ou World Wide Web Consortium criou as Diretrizes de Acessibilidade de Conteúdo da Web, que fornecem uma lista de diretrizes e recomendações sobre como tornar seu site mais acessível.
 
-A versão 2.0, publicada em dezembro de 2008, contém um conjunto de regras agrupadas em quatro categorias - perceptível, operacional, compreensível e robusto.
+A versão 2.0, publicada em dezembro de 2008, contém um conjunto de regras agrupadas em quatro categorias - perceptível, operável, compreensível e robusto.
 
 Ou se você quiser um acrônimo, é **POUR** para abreviar.
 
-Então, em junho de 2018, a versão 2.1 foi publicada para cobrir acessibilidade móvel, pessoas com baixa visão e habilidades cognitivas e de aprendizagem.
+Em junho de 2018, a versão 2.1 foi publicada para cobrir acessibilidade móvel, pessoas com baixa visão e habilidades cognitivas e de aprendizagem.
 
 É uma extensão da versão 2.0, portanto, outras diretrizes da 2.0 também se aplicam à versão 2.1.
 
 Vamos examinar isso com mais detalhes.
 
-**Perceptível** significa que as informações devem ser apresentadas aos usuários de diferentes maneiras.
+**Perceptível:** significa que as informações devem ser apresentadas aos usuários de diferentes maneiras.
 
-Alguns de seus usuários podem ter algumas dificuldades com um de seus sentidos, o que significa que eles precisam usar uma tecnologia de assistência, como leitores de tela, para acessar seu site.
+Alguns usuários podem ter algumas dificuldades com um de seus sentidos, o que significa que eles precisam usar uma tecnologia de assistência, como leitores de tela, para acessar seu site.
 
-**Operável** refere-se ao princípio de que seus usuários devem ser capazes de operar seu site usando diferentes meios.
+**Operável:** refere-se ao princípio de que os usuários devem ser capazes de operar seu site usando diferentes meios.
 
-Por exemplo, alguns de seus usuários podem ter dificuldades motoras e achar difícil usar um mouse.
+Por exemplo, alguns usuários podem ter limitações motoras e achar difícil usar um mouse.
 
-Isso significa que seu site também deve ser acessível se os usuários usarem apenas um teclado.
+Isso significa que seu site também deve ser acessível para os usuários usarem apenas um teclado.
 
-O terceiro princípio é certificar-se de que seus usuários entendam as informações apresentadas a eles ao usarem seu site.
+**Compreensível:** o terceiro princípio é certificar-se de que seus usuários entendam as informações apresentadas ao usarem seu site.
 
 Isso significa que instruções claras devem ser apresentadas e mensagens de erro para que eles saibam e entendam quando cometem erros.
 
-**Robusto** refere-se a garantir que seu site seja usado por seus usuários quando eles usam tecnologias assistivas de terceiros, mesmo que a tecnologia avance.
+**Robusto:** refere-se a garantir que seu site seja usado por usuários quando eles usam tecnologias assistivas de terceiros, mesmo que a tecnologia evolua.
 
 E isso é feito aderindo a padrões, como estrutura HTML correta, por exemplo.
 
@@ -78,7 +78,7 @@ A versão 2.1 foi introduzida devido ao surgimento de dispositivos móveis e tab
 
 Com esta versão, você precisa ter certeza de que seu site pode ser acessado em modo retrato ou paisagem.
 
-Se você tiver animações em seu site, certifique-se de que tem a opção de desativá-lo.
+Se você tiver animações em seu site, certifique-se de que há a opção de desativá-lo.
 
 Além disso, a capacidade de ampliar o texto facilmente, para que pessoas com baixa visão possam lê-lo sem problemas.
 
@@ -90,11 +90,11 @@ Dentro das Diretrizes de Acessibilidade de Conteúdo da Web, cada uma das diretr
 
 Isso é definido por meio dos três níveis de conformidade aos quais os negócios ou empresas devem estar em conformidade.
 
-O **nível A** é a conformidade mais básica e através de cada nível A, você deve atingir 25 critérios das diretrizes de acessibilidade.
+O **nível A** é a conformidade mais básica. Através de cada nível A, você deve atingir 25 critérios das diretrizes de acessibilidade.
 
 O **nível AA** é médio e em cada nível AA, além de atingir 25 critérios do nível A, você também precisa atingir 13 novos critérios neste nível.
 
-Finalmente, você tem o **nível AAA**, que é o nível de conformidade mais alto, o que significa que você precisa atingir os dois níveis anteriores, bem como outros 23 critérios no topo.
+Finalmente, você tem o **nível AAA**, que é o nível de conformidade mais alto, o que significa que você precisa atingir os dois níveis anteriores, bem como outros 23 critérios.
 
 Para distinguir o nível A do AA, vamos dar o exemplo do uso de legendas ou legendas ocultas.
 
@@ -102,9 +102,9 @@ Para alcançar a classificação de nível A, você deve ser capaz de fornecer n
 
 Por outro lado, para alcançar o nível AA, você deve ser capaz de fornecer legendas em um vídeo real ou ao vivo.
 
-Outro exemplo é usar apenas um teclado para acessar um site.
+Outro exemplo é usar apenas o teclado para acessar um site.
 
-Em cada nível A, todos os usuários devem ser capazes de navegar pelo seu site com apenas um teclado.
+No nível A, todos os usuários devem ser capazes de navegar pelo seu site apenas com o teclado.
 
 Por outro lado, a capacidade de ampliar o conteúdo do texto é de nível AA.
 
@@ -114,9 +114,9 @@ Não é obrigatório atingir o nível AAA, pois é mais direcionado a sites espe
 
 O nível recomendado é o nível AA, e este é o nível que a maioria das equipes pretende atingir.
 
-Para saber mais sobre os níveis de conformidade, recomendo fortemente a leitura dos links que adicionei abaixo como um recurso.
+Para saber mais sobre os níveis de conformidade, recomendo fortemente a leitura dos links que adicionei abaixo.
 
-Apenas para resumir as diretrizes de acessibilidade, criei este diagrama aqui, que mostra como tudo se conecta.
+Apenas para resumir as diretrizes de acessibilidade, criei este diagrama aqui, que mostra como tudo se conecta (a imagem deverá ser vista no material original).
 
 Em primeiro lugar, temos esses quatro princípios que compõem as diretrizes de acessibilidade em geral.
 
@@ -132,4 +132,5 @@ Esta diretriz fala sobre como garantir que conteúdo não textual, como imagens,
 
 Para atender a essa diretriz, há um critério de sucesso, que também mostra a classificação do nível de conformidade que você alcançará se sua aplicação atender a esses critérios.
 
-Agora que você tem uma visão geral do que é acessibilidade, no próximo vídeo, falarei sobre testes de acessibilidade e por que é importante fazê-lo. E então veja como podemos integrar isso em nossa estratégia de teste para ajudar nossa equipe a desenvolver sites ou aplicativos acessíveis.
+Agora que você tem uma visão geral do que é acessibilidade, no próximo capítulo, falaremos sobre testes de acessibilidade e por que é importante fazê-lo. E então veremos como podemos integrar isso em nossa estratégia de teste para ajudar nossa equipe a desenvolver sites ou aplicativos acessíveis.
+
