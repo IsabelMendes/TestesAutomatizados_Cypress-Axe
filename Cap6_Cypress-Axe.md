@@ -61,7 +61,7 @@ Excelente. Agora que estamos prontos para instalar o Cypress, tudo o que precisa
 npm i -D cypress@4.8.0 cypress-axe@0.8.1
 ```
 
-i é um atalho para instalar, -D porque queremos salvá-lo em nossas dependências de desenvolvimento neste projeto específico.
+**i** é um atalho para instalar, **-D** porque queremos salvá-lo em nossas dependências de desenvolvimento neste projeto específico.
 
 Em seguida, o nome do pacote, cypress, seguido por uma versão específica.
 
@@ -78,5 +78,47 @@ npm install cypress --save-dev
 npm install --save-dev cypress-axe
 ```
 
- 
+ ![](/Users/isabelmendes/Desktop/Captura de Tela 2021-05-26 às 15.41.44.png)
+
+Agora que tudo está instalado com sucesso, vamos prosseguir e abrir o Visual Studio Code para carregar este projeto.
+
+Nosso projeto foi carregado, mas onde está nossa pasta Cypress?
+
+Se você não sabe, o Cypress vem embutido com uma estrutura de pastas predefinida para você começar imediatamente.
+
+No entanto, precisamos executar mais um comando, então vamos voltar ao nosso terminal (ou uso o próprio terminal do Visual Studio Code).
+
+```
+npx cypress open
+```
+
+Observe que estou usando NPX aqui em vez de NPM.
+
+NPX é basicamente uma notação de atalho para executar um comando específico.
+
+Neste caso, desejo executar o comando cypress open.
+
+Agora, este comando fará duas coisas: primeiro, ele abrirá o executor de teste oficial do Cypress e, em seguida, como você pode ver, carregará o exemplo.
+
+![](/Users/isabelmendes/Desktop/Captura de Tela 2021-05-26 às 15.49.53.png)
+
+Esses arquivos vêm integrados com o Cypress.
+
+Em segundo lugar, o comando criará a estrutura de pastas padrão para nós, uma vez que ainda não foi criada.
+
+![](/Users/isabelmendes/Desktop/Captura de Tela 2021-05-26 às 15.55.04.png)
+
+Para usar o Cypress-Axe neste projeto, tenho mais uma configuração que preciso mostrar a você.
+
+Precisamos importar os comandos de que precisamos em nosso arquivo support / index.js.
+
+Este comando basicamente nos permitirá estender o comportamento padrão do Cypress e usar os comandos adicionais que precisaremos do Cypress-Axe.
+
+O arquivo deve ser parecido com o abaixo, apenas adicionando as informações no arquivo support/index.js:
+
+![](/Users/isabelmendes/Desktop/Captura de Tela 2021-05-26 às 16.05.43.png)
+
+Então isso é basicamente tudo para nossa configuração.
+
+No próximo capítulo, veremos como podemos escrever nosso primeiro teste de acessibilidade com Cypress-Axe.
 
