@@ -111,7 +111,7 @@ Vamos fazer uma pausa rápida. E no próximo subcapítulo, vamos dar uma olhada 
 
 Vamos começar com Axe.
 
-A extensão do navegador Axe é uma ferramenta baseada na biblioteca ax-core, que atualmente é apoiada pela Deque Systems.
+A extensão do navegador Axe é uma ferramenta baseada na biblioteca axe-core, que atualmente é apoiada pela Deque Systems.
 
 Ele permite que você detecte qualquer problema de acessibilidade rapidamente apenas executando a extensão, esteja você usando o Chrome, Firefox ou Edge.
 
